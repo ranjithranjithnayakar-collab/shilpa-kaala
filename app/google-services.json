@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544062385587",
+    "project_id": "shilpakala-526d7",
+    "storage_bucket": "shilpakala-526d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544062385587:android:a48e9e6d1a8219a0b2efc6",
+        "android_client_info": {
+          "package_name": "com.example.shilpa_kala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-sssWVCFSg9iRfWllkXbQ3x9OLB-qy1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
