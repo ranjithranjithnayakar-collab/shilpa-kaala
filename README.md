@@ -1,3 +1,4 @@
+<img width="379" height="787" alt="Screenshot 2026-05-15 101056" src="https://github.com/user-attachments/assets/fa577823-3d32-4b3d-ad62-b2a2035a1d2f" />
 Shilpa-Kala (Self-Employment)
 
 Shilpa-Kala is an Android-based e-commerce platform designed to empower
@@ -85,6 +86,7 @@ The app utilizes a flat collection structure for efficiency:
 | ![Home](https://via.placeholder.com/150) | ![Camera](https://via.placeholder.com/150) | ![Upload](https://via.placeholder.com/150) |
 <img width="429" height="806" alt="Screenshot 2026-05-15 100951" src="https://github.com/user-attachments/assets/539d8f23-8369-4a49-b8ea-0c14f4ac1fb9" />
 <img width="400" height="810" alt="Screenshot 2026-05-15 101012" src="https://github.com/user-attachments/assets/69ff6902-aa2d-4c51-8a8e-379f08f9f53a" />
+<img width="379" height="787" alt="Screenshot 2026-05-15 101056" src="https://github.com/user-attachments/assets/75fb7240-6940-49a5-bfda-a938545e5f3d" />
 <img width="1492" height="897" alt="Screenshot 2026-05-15 102028" src="https://github.com/user-attachments/assets/596406ae-4166-4e7e-9ac8-50b679b5bf05" />
 <img width="398" height="800" alt="Screenshot 2026-05-15 101115" src="https://github.com/user-attachments/assets/da84932a-9837-4731-9f0d-0811fa3fc204" />
 <img width="379" height="787" alt="Screenshot 2026-05-15 101056" src="https://github.com/user-attachments/assets/75fb7240-6940-49a5-bfda-a938545e5f3d" />
