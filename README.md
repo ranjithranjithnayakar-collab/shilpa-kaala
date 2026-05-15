@@ -1,5 +1,16 @@
-<img width="398" height="793" alt="Screenshot 2026-05-15 100922" src="https://github.com/user-attachments/assets/0964973b-602a-4759-87f9-2edd3d18a16e" />
+Shilpa-Kala (Self-Employment)
+
+Shilpa-Kala is an Android-based e-commerce platform designed to empower
+self-employed artisans and local creators. The app allows users to showcase,
+manage, and sell their handmade products directly through a streamlined mobile
+interface, bridging the gap between traditional craftsmanship and the digital
+marketplace.
+
+
 <img width="1901" height="979" alt="Screenshot 2026-05-08 092344" src="https://github.com/user-attachments/assets/af1519a9-b298-49c7-80cd-4c85ba4ee153" />
+
+<img width="398" height="793" alt="Screenshot 2026-05-15 100922" src="https://github.com/user-attachments/assets/0964973b-602a-4759-87f9-2edd3d18a16e" />
+
 This is a comprehensive README.md template based on the screenshots of your
 project. It highlights the features, tech stack, and workflow of your
 application.
