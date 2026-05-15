@@ -1,3 +1,5 @@
+<img width="398" height="793" alt="Screenshot 2026-05-15 100922" src="https://github.com/user-attachments/assets/0964973b-602a-4759-87f9-2edd3d18a16e" />
+<img width="1901" height="979" alt="Screenshot 2026-05-08 092344" src="https://github.com/user-attachments/assets/af1519a9-b298-49c7-80cd-4c85ba4ee153" />
 This is a comprehensive README.md template based on the screenshots of your
 project. It highlights the features, tech stack, and workflow of your
 application.
@@ -70,6 +72,12 @@ The app utilizes a flat collection structure for efficiency:
 | Home Screen                              | Camera Interface                           | Product Upload                             |
 | :--------------------------------------: | :----------------------------------------: | :----------------------------------------: |
 | ![Home](https://via.placeholder.com/150) | ![Camera](https://via.placeholder.com/150) | ![Upload](https://via.placeholder.com/150) |
+<img width="1492" height="897" alt="Screenshot 2026-05-15 102028" src="https://github.com/user-attachments/assets/596406ae-4166-4e7e-9ac8-50b679b5bf05" />
+<img width="398" height="800" alt="Screenshot 2026-05-15 101115" src="https://github.com/user-attachments/assets/da84932a-9837-4731-9f0d-0811fa3fc204" />
+<img width="379" height="787" alt="Screenshot 2026-05-15 101056" src="https://github.com/user-attachments/assets/75fb7240-6940-49a5-bfda-a938545e5f3d" />
+<img width="400" height="810" alt="Screenshot 2026-05-15 101012" src="https://github.com/user-attachments/assets/69ff6902-aa2d-4c51-8a8e-379f08f9f53a" />
+<img width="429" height="806" alt="Screenshot 2026-05-15 100951" src="https://github.com/user-attachments/assets/539d8f23-8369-4a49-b8ea-0c14f4ac1fb9" />
+
 
 (Note: Replace placeholders with actual image links if hosting this on GitHub)
 
